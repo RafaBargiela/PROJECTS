@@ -7,7 +7,7 @@
 - 1. [Summary](#1.-Summary)
  * 1.1. [Aims of the study](#1.1.-Aims-of-the-study)
  * 1.2. [Goals for the analysis](#1.2.-Goals-for-the-analysis)
-2. [Preprocessing of the raw data](#2.-Preprocessing-of-the-raw-data)
+- 2. [Preprocessing of the raw data](#2.-Preprocessing-of-the-raw-data)
 
 # 1. Summary
 Lynch syndrome (LS) is an inherited condition involving a high risk of colorectal cancer (CRC), endometrial cancer and other tumors. The increased cancer risk is associated to the accumulation of genetic mutations due to germline mutations in the mismatch repair genes MLH1, MSH2, MSH6 or PMS2. Recent investigations of 16S rRNA gene sequences in colon biopsies and stool samples revealed microbiome changes associated to specific mismatch repair genes and occurred prior to colorectal neoplasia; however, they were not predictors of baseline or interval adenoma occurrence. Here, we investigated changes of the gut microbial proteomes associated with the mismatch repair gene and high genetic risk of adenomatous polyposis and CRC in stool samples of individuals with LS.
