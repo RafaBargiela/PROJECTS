@@ -5,8 +5,8 @@
 
 # Index
 - 1. [Summary](#1.-Summary)
- * 1.1. [Aims of the study](#1.1.-Aims-of-the-study)
- * 1.2. [Goals for the analysis](#1.2.-Goals-for-the-analysis)
+- 1.1. [Aims of the study](#1.1.-Aims-of-the-study)
+- 1.2. [Goals for the analysis](#1.2.-Goals-for-the-analysis)
 - 2. [Preprocessing of the raw data](#2.-Preprocessing-of-the-raw-data)
 
 # 1. Summary
